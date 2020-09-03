@@ -1,0 +1,3 @@
+org\afdemp\springbootexample1\configuration\HelloWorldConfiguration.class
+org\afdemp\springbootexample1\controllers\Home.class
+org\afdemp\springbootexample1\SpringbootExample1Application.class
